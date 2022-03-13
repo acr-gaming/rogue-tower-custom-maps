@@ -4,6 +4,8 @@ These are all designed for single lane. Triple/Dual Lane will not generally work
 
 # Custom Maps
 
+## [Youtube How To Video](https://www.youtube.com/watch?v=BtKTXujwAjA)
+
 Adds custom maps to the game. Currently only really supports single lane/no splits effectively. 
 All portals after a split works fine too.
 

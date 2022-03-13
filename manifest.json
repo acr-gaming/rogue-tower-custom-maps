@@ -2,7 +2,7 @@
 {
     "name": "Rogue_Tower_Custom_Maps",
     "description": "Custom maps for new challenges.",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "dependencies": [
       "bbepis-BepInEx_Rogue_Tower-5.4.1900",
       "Harb-DisableTriumphs-1.0.8"
