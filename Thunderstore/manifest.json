@@ -1,0 +1,11 @@
+
+{
+    "name": "Custom Maps",
+    "description": "Custom maps for new challenges.",
+    "version_number": "0.0.1",
+    "dependencies": [
+      "bbepis-BepInEx_Rogue_Tower-5.4.1900",
+      "Harb-DisableTriumphs-1.0.8"
+    ],
+    "website_url": "https://github.com/acr-gaming/rogue-tower-custom-maps"
+  }
